@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "shirtSize": "M",
+      "fullName": "Jacob Plumb",
+      "animals": [
+        "dog",
+        "cat"
+      ]
+    },
+    {
+      "id": "8d59",
+      "fullName": "james",
+      "shirtSize": "L",
+      "animals": [
+        "cat"
+      ]
+    },
+    {
+      "id": "7aee",
+      "fullName": "james",
+      "shirtSize": "L",
+      "animals": [
+        "cat"
+      ]
+    },
+    {
+      "id": "7198",
+      "fullName": "james",
+      "shirtSize": "L",
+      "animals": [
+        "cat"
+      ]
+    },
+    {
+      "id": "f7e0",
+      "fullName": "Jon Plumb",
+      "shirtSize": "S",
+      "animals": [
+        "cat",
+        "dog"
+      ]
+    }
+  ]
+}
